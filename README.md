@@ -21,12 +21,10 @@ I've successfully implemented CRUD APIs for guests, and my focus is currently on
 Currently, I'm navigating the intricacies of Python and Flask to enhance Travel Hub's functionality. The initial hurdle of setting up my development environment has been overcome, and now I'm enjoying the process of building and expanding the project.
 
 
-- 👯 I’m looking to collaborate on fullstack projects. I would love to improve my backend skills.
-- 💬 Ask me about my dogs or my next event
-- 📫 How to reach me: grace5829@gmail.com
-- 😄 Pronouns: she/her
+
   
 <h3 align="left">Connect with me:</h3>
+📫 How to reach me: grace5829@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/gracegao-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gracegao-engineer" height="30" width="40" /></a>
 </p>
