@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Welcome to my Github 👋👋👋!!! </h1>
 <h3 align="center">I am a passionte frontend developer from Brooklyn, NY</h3>
 
