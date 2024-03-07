@@ -7,11 +7,12 @@
 Welcome to Travel Hub, the all-in-one solution for seamless event planning! This project is designed to be your go-to platform for managing guests, creating itineraries, and keeping your budgets on track. As of now, the CRUD APIs for guests are up and running smoothly, and I'm actively developing the frontend to showcase and manage your guest list.
 
 <h4>Project Highlights:</h4>
-Guest Management: Effortlessly handle your guest list with comprehensive CRUD APIs.
 
-Itinerary Planning: Stay organized by creating and managing event itineraries effortlessly.
+<div> Guest Management: Effortlessly handle your guest list with comprehensive CRUD APIs.</div>
 
-Budget Tracking: Keep a close eye on your event expenses with integrated budget management features.
+<div> Itinerary Planning: Stay organized by creating and managing event itineraries effortlessly.</div>
+
+<div> Budget Tracking: Keep a close eye on your event expenses with integrated budget management features.</div>
 
 <h4>Current Progress:</h4>
 I've successfully implemented CRUD APIs for guests, and my focus is currently on refining the frontend to provide a seamless user experience. Join me on this exciting journey to create the ultimate event planning tool!
