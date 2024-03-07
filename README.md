@@ -1,29 +1,33 @@
 ### Hi there 👋
 
-<!--
-**grace5829/grace5829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[Text you want to display](URL)
-[Profile](https://portfolio2023-3d80ofoc4-grace5829.vercel.app/)
-[Linkedin](https://www.linkedin.com/in/gracegao-engineer/)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Travel Hub. It will be a one stop shop for event planning. It will help keep track of guest, itinerary, and budgets. I currently have the CRUD apis for guests set up and am working on the frontend side of displaying the guests. 
-- 🌱 I’m currently learning Python and Flask! I am diving into backend. 
-- 👯 I’m looking to collaborate on fullstack projects. I would love to improve my backend skills.
-- 💬 Ask me about my dogs or my next event
-- 📫 How to reach me: grace5829@gmail.com
-- 😄 Pronouns: she/her
--->
-<h1 align="center">Hi 👋, I'm Grace Gao</h1>
-<h3 align="center">A passionate frontend developer from Brooklyn, NY</h3>
+<h1 align="center">Welcome to my Github 👋👋👋!!! </h1>
+<h3 align="center">I am a passionte frontend developer from Brooklyn, NY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grace5829&label=Profile%20views&color=0e75b6&style=flat" alt="grace5829" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grace5829" alt="grace5829" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Hub**
+<h4>I am currently working on: </h4>
 
+<h5> Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
+Welcome to Travel Hub, the all-in-one solution for seamless event planning! This project is designed to be your go-to platform for managing guests, creating itineraries, and keeping your budgets on track. As of now, the CRUD APIs for guests are up and running smoothly, and I'm actively developing the frontend to showcase and manage your guest list.
+
+Project Highlights:
+Guest Management: Effortlessly handle your guest list with comprehensive CRUD APIs.
+
+Itinerary Planning: Stay organized by creating and managing event itineraries effortlessly.
+
+Budget Tracking: Keep a close eye on your event expenses with integrated budget management features.
+
+Current Progress:
+I've successfully implemented CRUD APIs for guests, and my focus is currently on refining the frontend to provide a seamless user experience. Join me on this exciting journey to create the ultimate event planning tool!
+  
+- 🌱 I’m currently learning Python and Flask! I am diving into backend. 
+- 👯 I’m looking to collaborate on fullstack projects. I would love to improve my backend skills.
+- 💬 Ask me about my dogs or my next event
+- 📫 How to reach me: grace5829@gmail.com
+- 😄 Pronouns: she/her
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gracegao-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gracegao-engineer" height="30" width="40" /></a>
@@ -34,6 +38,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grace5829&show_icons=true&locale=en&layout=compact" alt="grace5829" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grace5829&show_icons=true&locale=en" alt="grace5829" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grace5829&" alt="grace5829" /></p>
