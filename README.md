@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to my Github 👋👋👋!!! </h1>
 <h3 align="center">I am a passionte software engineer from Brooklyn, NY</h3>
 
-<h2>I am currently working on: </h2>
-
-<h3> Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
+<h3> I am currently working on: Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
 Welcome to Travel Hub, the all-in-one solution for seamless event planning! This project is designed to be your go-to platform for managing guests, creating itineraries, and keeping your budgets on track. As of now, the CRUD APIs for guests are up and running smoothly, and I'm actively developing the frontend to showcase and manage your guest list.
 
 <h4>Project Highlights:</h4>
