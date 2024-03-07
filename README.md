@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Github 👋👋👋!!! </h1>
-<h3 align="center">I am a passionte frontend developer from Brooklyn, NY</h3>
+<h3 align="center">I am a passionte software engineer from Brooklyn, NY</h3>
 
 <h2>I am currently working on: </h2>
 
