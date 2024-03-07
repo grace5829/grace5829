@@ -3,20 +3,23 @@
 
 <h2>I am currently working on: </h2>
 
-<h5> Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
+<h3> Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
 Welcome to Travel Hub, the all-in-one solution for seamless event planning! This project is designed to be your go-to platform for managing guests, creating itineraries, and keeping your budgets on track. As of now, the CRUD APIs for guests are up and running smoothly, and I'm actively developing the frontend to showcase and manage your guest list.
 
-Project Highlights:
+<h4>Project Highlights:</h4>
 Guest Management: Effortlessly handle your guest list with comprehensive CRUD APIs.
 
 Itinerary Planning: Stay organized by creating and managing event itineraries effortlessly.
 
 Budget Tracking: Keep a close eye on your event expenses with integrated budget management features.
 
-Current Progress:
+<h4>Current Progress:</h4>
 I've successfully implemented CRUD APIs for guests, and my focus is currently on refining the frontend to provide a seamless user experience. Join me on this exciting journey to create the ultimate event planning tool!
   
-- 🌱 I’m currently learning Python and Flask! I am diving into backend. 
+<h4>Learning Python and Flask:</h4>
+Currently, I'm navigating the intricacies of Python and Flask to enhance Travel Hub's functionality. The initial hurdle of setting up my development environment has been overcome, and now I'm enjoying the process of building and expanding the project.
+
+
 - 👯 I’m looking to collaborate on fullstack projects. I would love to improve my backend skills.
 - 💬 Ask me about my dogs or my next event
 - 📫 How to reach me: grace5829@gmail.com
