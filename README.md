@@ -9,7 +9,6 @@ Welcome to Travel Hub, the all-in-one solution for seamless event planning! This
 <h4>Project Highlights:</h4>
 Guest Management: Effortlessly handle your guest list with comprehensive CRUD APIs.
 
-
 Itinerary Planning: Stay organized by creating and managing event itineraries effortlessly.
 
 Budget Tracking: Keep a close eye on your event expenses with integrated budget management features.
