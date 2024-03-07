@@ -3,11 +3,7 @@
 <h1 align="center">Welcome to my Github 👋👋👋!!! </h1>
 <h3 align="center">I am a passionte frontend developer from Brooklyn, NY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grace5829&label=Profile%20views&color=0e75b6&style=flat" alt="grace5829" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grace5829" alt="grace5829" /></a> </p>
-
-<h4>I am currently working on: </h4>
+<h2>I am currently working on: </h2>
 
 <h5> Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
 Welcome to Travel Hub, the all-in-one solution for seamless event planning! This project is designed to be your go-to platform for managing guests, creating itineraries, and keeping your budgets on track. As of now, the CRUD APIs for guests are up and running smoothly, and I'm actively developing the frontend to showcase and manage your guest list.
