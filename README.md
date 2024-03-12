@@ -13,7 +13,7 @@ Welcome to Travel Hub, the all-in-one solution for seamless event planning! This
 <div> Budget Tracking: Keep a close eye on your event expenses with integrated budget management features.</div>
 
 <h4>Current Progress:</h4>
-I've successfully implemented CRUD APIs for guests, and my focus is currently on refining the frontend to provide a seamless user experience. Join me on this exciting journey to create the ultimate event planning tool!
+I've successfully implemented CRUD APIs for guests and recently finished the front-end for my guest list & CRUD guests' information. Time to focus on creating the CRUD APIs for events. Join me on this exciting journey to create the ultimate event planning tool!
   
 <h4>Learning Python and Flask:</h4>
 Currently, I'm navigating the intricacies of Python and Flask to enhance Travel Hub's functionality. The initial hurdle of setting up my development environment has been overcome, and now I'm enjoying the process of building and expanding the project.
