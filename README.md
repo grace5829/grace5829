@@ -17,9 +17,6 @@ I've successfully implemented CRUD APIs for guests and recently finished the fro
   
 <h4>Learning Python and Flask:</h4>
 Currently, I'm navigating the intricacies of Python and Flask to enhance Travel Hub's functionality. The initial hurdle of setting up my development environment has been overcome, and now I'm enjoying the process of building and expanding the project.
-
-
-
   
 <h3 align="left">Connect with me:</h3>
 📫e-mail: grace5829@gmail.com
