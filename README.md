@@ -16,6 +16,7 @@ Welcome to Travel Hub, the all-in-one solution for seamless event planning! This
 I've successfully implemented CRUD APIs for guests and recently finished the backend APIs for guest and events. I also have the basic front-end layout to show all events/guest with the ability to edit/add guest to an event. I am now working on showing guest for specifc events. Join me on this exciting journey to create the ultimate event planning tool!
 
 4/1- I can display guests for specific events and automatically link newly created guests to the corresponding event. Next, I am working on creating/editing  events.
+4/11- Ability to add/edit events is up and working! I also added a expenese table and backend routes to start the next addition to the application. Now I am working on adding expenses on the front end. 
 
 <h4>Learning Python and Flask:</h4>
 Currently, I'm navigating the intricacies of Python and Flask to enhance Travel Hub's functionality. The initial hurdle of setting up my development environment has been overcome, and now I'm enjoying the process of building and expanding the project.
