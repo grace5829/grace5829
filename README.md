@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github 👋👋👋!!! </h1>
 <h3 align="center">I am a passionte software engineer from Brooklyn, NY</h3>
 
-<h3> I am currently working on Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
+<h3> I just finished Travel Hub: Your Ultimate Event Planning Companion 🌍✨ </h5>
 Welcome to Travel Hub, the all-in-one solution for seamless event planning! This project is designed to be your go-to platform for managing guests, creating itineraries, and keeping your budgets on track. As of now, the CRUD APIs for guests are up and running smoothly, and I'm actively developing the frontend to showcase and manage your guest list.
 
 <h4>Project Highlights:</h4>
@@ -12,15 +12,6 @@ Welcome to Travel Hub, the all-in-one solution for seamless event planning! This
 
 <div> Budget Tracking: Keep a close eye on your event expenses with integrated budget management features.</div>
 
-<h4>Current Progress:</h4>
-I've successfully implemented CRUD APIs for guests and recently finished the backend APIs for guest and events. I also have the basic front-end layout to show all events/guest with the ability to edit/add guest to an event. I am now working on showing guest for specifc events. Join me on this exciting journey to create the ultimate event planning tool!
-
-4/1- I can display guests for specific events and automatically link newly created guests to the corresponding event. Next, I am working on creating/editing  events.
-4/11- Ability to add/edit events is up and working! I also added a expenese table and backend routes to start the next addition to the application. Now I am working on adding expenses on the front end. 
-
-<h4>Learning Python and Flask:</h4>
-Currently, I'm navigating the intricacies of Python and Flask to enhance Travel Hub's functionality. The initial hurdle of setting up my development environment has been overcome, and now I'm enjoying the process of building and expanding the project.
-  
 <h3 align="left">Connect with me:</h3>
 📫e-mail: grace5829@gmail.com
 <p align="left">
